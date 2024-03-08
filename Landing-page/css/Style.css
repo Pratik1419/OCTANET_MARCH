@@ -56,7 +56,7 @@ header nav a:hover {
 
 #hero {
     height: 800px;
-    background-image: url("/images/ocean.jpg");
+    background-image: url("/Landing-page/images/ocean.jpg");
     background-position: center;
     background-size: cover;
     
